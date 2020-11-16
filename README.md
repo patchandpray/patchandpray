@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim van de Keer, DataOps Enthousiast building cloud-native Big Data platforms. Interested in DSP programming and used to make electronic music. Currently building Taco's on my stove.
+I'm Tim van de Keer, DataOps Enthousiast building cloud-native Big Data platforms. Interested in DSP programming and used to make electronic music.
 
 :snake: Main language is Python  
 :crab: Currently learning Rust :heart:
