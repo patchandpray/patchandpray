@@ -2,7 +2,7 @@
 
 I'm Tim van de Keer, DataOps Enthousiast building some Big Data platforms. Interested in DSP programming and used to make electronic music. Currently building Taco's on my stove.
 
-:snake: Main language is Python
+:snake: Main language is Python  
 :crab: Currently learning Rust :heart:
 
 
