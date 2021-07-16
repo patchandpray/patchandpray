@@ -8,5 +8,5 @@ I'm Tim van de Keer, DataOps Enthousiast building cloud-native data platforms. I
 
 📫 How to reach me:
 - Twitter: [@TimvandeKeer](https://twitter.com/TimvandeKeer)
-- LinkedIn: [Tim van de Keer](https://www.linkedin.com/in/tim-van-de-keer-bb5a1966/)
+- LinkedIn: [Tim van de Keer](https://www.linkedin.com/in/tim-van-de-keer/)
 - Discord: patchandpray#1406
